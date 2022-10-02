@@ -1,0 +1,9 @@
+[
+    {"id":1, "nombre":"Short", "precio":2500, "img": "../img/boutique/short.jpg"},
+    {"id":2, "nombre":"Camiseta", "precio":4500, "img": "../img/boutique/camiseta.jpg"},
+    {"id":3, "nombre":"Medias", "precio":1500, "img": "../img/boutique/medias.jpg"},
+    {"id":4, "nombre":"Casco", "precio":2000, "img":"../img/boutique/casco.jpg"},
+    {"id":5, "nombre":"Protector", "precio":1800, "img": "../img/boutique/protector.jpg"},
+    {"id":6, "nombre":"Cintas", "precio":700, "img": "../img/boutique/cintas.jpg"},
+    {"id":7, "nombre":"Botines", "precio":15000, "img": "../img/boutique/botines.jpg"}
+]
